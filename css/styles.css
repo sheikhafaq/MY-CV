@@ -69,6 +69,9 @@ span{
 hr{
   margin:0;
 }
+.footer-link{
+  margin: 0px 20px 0px 20px;
+}
 .contact-div{
   background-color: #E4F9F5;
   border-radius: 3rem;
@@ -76,13 +79,12 @@ hr{
   border-color: #706c61;
   border-width: 0.6rem;
   position: fixed;
-  padding-bottom:2rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding: 2rem;
    left: 50%;
    top: 0%;
    transform: translateX(-50%);
    margin-top: 10%;
+   display: inline-block;
 }
 .contact-me{
   font-size: 1.5rem;
