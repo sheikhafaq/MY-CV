@@ -28,8 +28,7 @@ h1{
   font-size: 5.2rem;
   color: #707070;
   margin: 120px auto 0 auto;
-  width: auto;;
-  text-align:
+  width: auto;
 
 }
 p{
@@ -50,15 +49,14 @@ span{
 .top-clouds{
 
   position: absolute;
-  right: 450px;
-  top: 0px;
-  margin-top: 70px;
+  right: 19rem;
+  top: 4rem;
 }
 
 .bottom-clouds{
   position: absolute;
-  left: 450px;
-  top: 250px;
+  left: 27rem;
+  top: 20rem;
 
 }
 .dp{
@@ -69,33 +67,52 @@ hr{
   margin:0;
 }
 .contact-div{
-  font-size: 1.3rem;
-
+  background-color: #E4F9F5;
+  position: fixed;
+   padding: 2em;
+   left: 50%;
+   top: 0%;
+   transform: translateX(-50%);
 }
 .contact-me{
   font-size: 1.5rem;
+  color: #af2d2d;
 }
 .cie{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
 }
 .cic{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
 }
 .ciw{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
 }
 .cil{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
 }
 .cit{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
 }
 .cii{
-  height: 1.8rem;
-  width: 2rem;
+  height: 3.8rem;
+  width: 4rem;
+}
+.contact-me-div{
+  background-color: #707070;
+  width: 200px;
+  height: 30px;
+  position: fixed;
+  bottom: 1.8rem;
+  right: 1.8rem;
+  background-clip: border-box;
+  border-style: solid;
+  border-radius: 2rem;
+}
+.body-main{
+  background-color: #E4F9F5;
 }
