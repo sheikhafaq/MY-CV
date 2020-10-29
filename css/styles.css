@@ -23,6 +23,9 @@
 .bottom-container{
  background-color: #E4F9F5;
 }
+.bottom-c{
+  font-size: 10px;
+}
 h1{
   font-family:'Sacramento', cursive;
   font-size: 5.2rem;
@@ -68,11 +71,18 @@ hr{
 }
 .contact-div{
   background-color: #E4F9F5;
+  border-radius: 3rem;
+  border-style: solid;
+  border-color: #706c61;
+  border-width: 0.6rem;
   position: fixed;
-   padding: 2em;
+  padding-bottom:2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
    left: 50%;
    top: 0%;
    transform: translateX(-50%);
+   margin-top: 10%;
 }
 .contact-me{
   font-size: 1.5rem;
